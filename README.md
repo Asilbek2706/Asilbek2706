@@ -6,8 +6,8 @@
 <h3 align="center">Full-Stack Developer in Progress | Python • Django • Flask</h3>
 
 <p align="center">
-  <a href="https://github.com/Asilbek2701">
-    <img src="https://img.shields.io/github/followers/Asilbek2701?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/Asilbek2706">
+    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -25,19 +25,19 @@ My goal: Build real-world applications, contribute to open-source, and become a 
 ## ⚡ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2701&show_icons=true&theme=dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=dark&hide_title=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2701&layout=compact&theme=dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=dark&hide_title=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Asilbek2701&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Asilbek2706&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asilbek2701&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Asilbek2706&color=blue" />
 </p>
 
 ---
