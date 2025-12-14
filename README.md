@@ -33,26 +33,10 @@
 
 ## 📚 Projects
 
-
-- 🌐 **Portfolio Website (HTML & CSS)**
-👉 https://github.com/Asilbek2706/Portfolio
-
-
 - 🌤️ Weather App (API Based)
 - 📝 Todo App (React + LocalStorage)
 - 🎬 Movie Search App
 
-
----
-
-
-## 🌐 Live Portfolio
-
-
-🚀 https://asilbek2706.github.io/Portfolio/
-
-
----
 
 
 ## 📊 GitHub Stats
