@@ -41,10 +41,20 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asilbek2706&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asilbek2706&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Asilbek2706&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=true&row=1&column=6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=tokyonight)
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=darkhub)
+
 
 
 ---
