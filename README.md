@@ -64,7 +64,6 @@ I focus on **daily consistency**, real-world projects, and clean, user-focused U
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" />
 </p>
 
@@ -72,11 +71,8 @@ I focus on **daily consistency**, real-world projects, and clean, user-focused U
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=tokyo-night&hide_border=true&area=true)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&hide_border=true&rank_icon=github)
 
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
