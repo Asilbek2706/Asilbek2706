@@ -48,6 +48,9 @@ I focus on **daily consistency**, real-world projects, and clean, user-focused U
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
+- ![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-yellow?style=for-the-badge)
+
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
