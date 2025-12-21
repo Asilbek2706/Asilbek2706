@@ -2,7 +2,6 @@
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Future+Full-Stack+Engineer;Building+Modern+Responsive+Interfaces;React+%7C+JavaScript+%7C+Tailwind+CSS;Consistency+Beats+Talent)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asilbek2706&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Asilbek2706?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Asilbek2706?style=for-the-badge)
 
@@ -19,15 +18,6 @@ I focus on **daily consistency**, real-world projects, and clean, user-focused U
 - 🌍 Open to **Internship / Junior Frontend roles**
 
 > _Consistency beats talent. Always._
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🧠 Developer Mindset
-
-- 📅 Daily learning (23:00 – 00:00)
-- 🔁 Learn → Build → Break → Fix → Improve
-- 🧩 Problem-solver mindset
-- 📈 Long-term growth (Junior → Senior)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
@@ -54,8 +44,6 @@ I focus on **daily consistency**, real-world projects, and clean, user-focused U
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=Asilbek2706&theme=tokyonight&hide_border=true)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <p align="center">
@@ -73,14 +61,6 @@ I focus on **daily consistency**, real-world projects, and clean, user-focused U
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&hide_border=true&rank_icon=github)
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 📚 Featured Projects
-
-- 🌤️ **Weather App** — API-based responsive UI  
-- 📝 **Todo App** — React + LocalStorage  
-- 🎬 **Movie Search App** — API integration & search  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
