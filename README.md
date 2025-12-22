@@ -1,74 +1,89 @@
-# 👋 Hi, I'm Asilbek — Frontend Developer
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Future+Full-Stack+Engineer;Building+Modern+Responsive+Interfaces;React+%7C+JavaScript+%7C+Tailwind+CSS;Consistency+Beats+Talent)
-
-![Followers](https://img.shields.io/github/followers/Asilbek2706?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Asilbek2706?style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🧑‍💻 About Me
-
-I’m **Asilbek**, a **Junior Frontend Developer** aiming to become a **Full-Stack Engineer**.  
-I focus on **daily consistency**, real-world projects, and clean, user-focused UI.
-
-- 🎯 Frontend-first, UI/UX oriented  
-- ⚛️ React & JavaScript focused  
-- 🎨 Animations, micro-interactions, clean layouts  
-- 🌍 Open to **Internship / Junior Frontend roles**
-
-> _Consistency beats talent. Always._
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🚀 Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Asilbek%20Karomatov&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Junior+Frontend+Developer;Future+Full-Stack+Engineer;React+%7C+Bootstrap+%7C+Django;Expert+in+WebStorm+%26+PyCharm" />
 </p>
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=tokyo-night&hide_border=true&area=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&hide_border=true&rank_icon=github)
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 📫 Contact Me
-
-- 💬 Telegram: [@as1lbek_2706](https://t.me/as1lbek_2706)
-- 📧 Email: asilbekkaromatov2@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Asilbek2706?style=flat-square&logo=github&color=0ea5e9&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Asilbek2706?style=flat-square&logo=reverbnation&color=0ea5e9&label=Total+Stars" />
+</p>
 
 ---
 
-⚡ *Build daily. Improve weekly. Ship consistently.*
+## 🚀 About Me
+
+I am **Asilbek**, a passionate **Junior Frontend Developer** dedicated to building high-performance, responsive, and visually stunning web applications. I believe in professional tools and disciplined coding to bridge the gap between ideas and reality.
+
+- 🎯 **Current Focus:** Master the React ecosystem and deep-dive into Full-Stack development.
+- ⚛️ **UI Philosophy:** Utilizing **Bootstrap** to create seamless, mobile-first user interfaces.
+- 🛠 **Environment:** High-productivity workflow powered by **WebStorm** and **PyCharm**.
+- ⚡ **Commitment:** Consistency beats talent. I ship code every single day.
+
+---
+
+## 🛠 Tech Stack & Professional Tools
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass,tailwind" />
+</p>
+
+### ⚙️ Backend & Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,git,linux,bash,docker" />
+</p>
+
+### 💎 Professional IDEs (JetBrains)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm" />
+</p>
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&text_color=ffffff&icon_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=tokyo-night&hide_border=true&area=true&color=38BDF8" width="100%" />
+</p>
+
+---
+
+## 🏗 Featured Projects
+
+| Project Name | Stack | Status |
+| :--- | :--- | :--- |
+| **Enterprise Dashboard** | React, Bootstrap, Django | 🚀 Production |
+| **AI Integration Hub** | Python, WebStorm, PyCharm | 🛠 Development |
+| **Modern UI Kit** | Bootstrap 5, Sass | ✅ Completed |
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://t.me/as1lbek_2706">
+    <img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:asilbekkaromatov2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/asilbek2706">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2" />
+</p>
+
+<p align="center">
+  <i>"Code is poetry. Write it beautifully."</i>
+</p>
