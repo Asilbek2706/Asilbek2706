@@ -62,9 +62,8 @@ I am a **Junior Frontend Developer** building modern web experiences. My workflo
 
 | Project Name | Tech Stack | Preview |
 | :--- | :--- | :--- |
-| **✨ NexGen Dashboard** | React + Bootstrap 5 | [View Code](https://github.com/Asilbek2706) |
-| **🐍 Django Core API** | PyCharm + Django | [View Code](https://github.com/Asilbek2706) |
-| **🎨 Modern UI Kit** | SCSS + Bootstrap | [View Code](https://github.com/Asilbek2706) |
+| **🚀 Mohirdev Connect** | HTML5 + CSS3 + Bootstrap 5 | [View Code](https://github.com/Asilbek2706/Mohirdev-project-Connect) |
+| **💼 Personal Portfolio** | HTML5 + CSS3 (Custom Design) | [View Code](https://github.com/Asilbek2706/Portfolio) |
 
 ---
 
