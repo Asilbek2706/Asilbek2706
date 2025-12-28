@@ -120,15 +120,3 @@ A results-driven **Frontend Architect** and **React Specialist** focused on deve
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=991b1b&height=30&section=footer&text=Keep%20Coding%20%7C%20Stay%20Hungry&fontSize=20&fontAlignY=50" />
 </p>
-
----
-
-## ☕ Support My Work
-<p align="left">
-  <a href="https://www.buymeacoffee.com/asilbek">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://github.com/sponsors/Asilbek2706">
-    <img src="https://img.shields.io/badge/Sponsor%20Me-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-  </a>
-</p>
