@@ -14,25 +14,29 @@
 
 ---
 
-## ⚡ Technical Summary: Building the Future of Web
+## ⚡ Technical Summary
 A results-driven **Frontend Architect** and **React Specialist** focused on developing high-conversion, accessible, and high-performance web applications. My expertise lies in building robust UI systems that integrate seamlessly with pragmatic **Django** backends.
 
-- 🔭 **Current Focus:** Micro-frontend Architectures, Server-Side Rendering (SSR), and Cloud-Native Deployments.
-- ⚡ **Performance Obsession:** Achieving sub-second Time To Interactive (TTI) and optimal Lighthouse scores.
-- 🛠️ **Dev Environment:** Linux (Ubuntu/Debian) | WebStorm | Docker | VS Code.
+- 🔭 **Current Focus:** Micro-frontend Architectures, SSR, and Cloud-Native Deployments.
+- ⚡ **Performance Obsession:** Achieving sub-second Time To Interactive (TTI).
+- 🛠️ **Dev Environment:** Linux (Ubuntu) | WebStorm | Docker | VS Code.
 
 ---
 
-## 🚀 Core Tech Stack & Arsenals
+## 🚀 Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,sass,tailwind,figma,python,django,git,mysql,sqlite,linux,docker,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,python,django,git,mysql,linux,docker,bash&theme=dark" />
 </p>
 
 ---
 
-## 📈 Overall Contribution Activity
+## 📉 Activity & Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=ff0000&hide_border=false&border_color=ff0000&point=ff0000&custom_title=GitHub+Activity+Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=ff0000&hide_border=false&border_color=ff0000&point=ff0000&custom_title=GitHub+Contribution+Grid" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </p>
 
 ---
@@ -50,43 +54,31 @@ A results-driven **Frontend Architect** and **React Specialist** focused on deve
 
 ---
 
-## 🛠 Featured Engineering Projects
+## 🛠 Featured Projects
 <p align="center">
   <a href="https://github.com/Asilbek2706/Mohirdev-project-Connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Mohirdev-project-Connect&theme=dark&border_color=ff0000&show_owner=false&title_color=ff0000&text_color=ffffff&icon_color=ff0000" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Mohirdev-project-Connect&theme=dark&border_color=ff0000&title_color=ff0000&icon_color=ff0000" width="400px"/>
   </a>
   <a href="https://github.com/Asilbek2706/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Portfolio&theme=dark&border_color=ff0000&show_owner=false&title_color=ff0000&text_color=ffffff&icon_color=ff0000" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Portfolio&theme=dark&border_color=ff0000&title_color=ff0000&icon_color=ff0000" width="400px"/>
   </a>
 </p>
 
 ---
 
-## 🛡 Performance Standards & Best Practices
-* **Modular Architecture:** Implementing Atomic Design principles for scalable UI components.
-* **Accessibility First:** Ensuring WCAG 2.1 compliance and keyboard navigability.
-* **Optimal Performance:** Leveraging Code Splitting, Lazy Loading, and WebP format.
-* **Robust CI/CD:** Automated linting, unit tests, and Docker-based deployment.
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-contribution-grid-snake-dark.svg" alt="Snake" /></p>
+## 🛡 Engineering Standards
+- 🏗 **Modular Architecture:** Atomic Design principles for scalability.
+- ♿ **Accessibility:** WCAG 2.1 compliance and keyboard navigability.
+- 🚀 **Performance:** Code Splitting, Lazy Loading, and WebP optimization.
+- 🔄 **CI/CD:** Automated testing and Docker-native deployments.
 
 ---
 
 ## 📫 Connect & Collaborate
 <p align="center">
-  <a href="https://t.me/as1lbek_2706">
-    <img src="https://img.shields.io/badge/Telegram-c2410c?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:asilbekkaromatov2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dc2626?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Asilbek2706">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://t.me/as1lbek_2706"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Asilbek2706"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
