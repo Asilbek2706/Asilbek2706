@@ -30,6 +30,30 @@ A results-driven **Frontend Architect** and **React Specialist** focused on deve
 
 ---
 
+---
+
+## 🎯 Specialized Expertise & Proficiency
+<p align="center">
+<img src="https://img.shields.io/badge/Architecture-Micro--frontends-ef4444?style=flat-square" /> 
+<img src="https://img.shields.io/badge/State-Zustand%20%7C%20Redux-ef4444?style=flat-square" /> 
+<img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Cypress-ef4444?style=flat-square" /> 
+<img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-ef4444?style=flat-square" />
+</p>
+
+| Category | Level | Core Tech |
+| :--- | :---: | :--- |
+| **Frontend Architecture** | █ █ █ █ █ █ █ █ █ ░ | Design Systems, Monorepos, Module Federation |
+| **React Ecosystem** | █ █ █ █ █ █ █ █ █ █ | Next.js 14 (App Router), Server Components |
+| **Performance Engineering** | █ █ █ █ █ █ █ █ ░ ░ | Web Vitals, Image Opt., Bundle Analysis |
+| **Backend Integration** | █ █ █ █ █ █ █ ░ ░ ░ | Django Rest Framework, PostgreSQL, Redis |
+
+---
+
+## 🧪 Current Research & Interests
+- 🦀 **Rust for Web:** WebAssembly (WASM) orqali frontend unumdorligini oshirishni o'rganish.
+- 🏗️ **Server-Driven UI:** Murakkab interfeyslarni dinamik ravishda backend orqali boshqarish.
+- ⚡ **Edge Computing:** Vercel Edge Functions va Cloudflare Workers integratsiyasi.
+
 ## 📉 Activity & Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=ff0000&hide_border=false&border_color=ff0000&point=ff0000&custom_title=GitHub+Contribution+Grid" width="100%" />
