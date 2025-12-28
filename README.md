@@ -72,8 +72,7 @@ A results-driven **Frontend Architect** and **React Specialist** focused on deve
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
+<img src="https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-contribution-grid-snake-dark.svg" alt="Snake" /></p>
 
 ---
 
