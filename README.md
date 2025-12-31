@@ -97,6 +97,10 @@ Specialized in architecting modern UI systems and seamlessly integrating them wi
 
 ---
 
+## 📈 Detailed Analytics
+
+---
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=dark&border_color=ff0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="48%" />
