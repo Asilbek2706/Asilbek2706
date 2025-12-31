@@ -22,8 +22,6 @@
 Results-driven **Frontend Architect** and **Senior React Engineer** with a strong focus on building scalable, accessible, and high-performance web applications.  
 Specialized in architecting modern UI systems and seamlessly integrating them with reliable **Django-based backends**.
 
-I design frontend solutions that prioritize **performance, maintainability, and developer experience**, while delivering measurable business impact.
-
 - 🔭 **Current Focus:** Micro-frontend architectures, SSR, and cloud-native deployments  
 - ⚡ **Performance First:** Consistently targeting sub-second Time To Interactive (TTI)  
 - 🛠 **Daily Environment:** Linux (Ubuntu) · WebStorm · Docker · VS Code  
@@ -37,27 +35,54 @@ I design frontend solutions that prioritize **performance, maintainability, and 
 
 ---
 
-## 🎯 Specialized Expertise
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Micro--frontends-ef4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/State%20Management-Zustand%20%7C%20Redux-ef4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Cypress-ef4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-ef4444?style=flat-square" />
-</p>
+## 🛠 Featured Projects (Selected Works)
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Asilbek2706/Asilbek2706.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Asilbek2706.github.io&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
+        </a>
+        <br />
+        <b>✨ My Interactive Portfolio</b>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Asilbek2706/Mohirdev-project-Connect">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Mohirdev-project-Connect&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
+        </a>
+        <br />
+        <b>🔗 My Connect Project</b>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Asilbek2706/SASS-project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=SASS-project&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
+        </a>
+        <br />
+        <b>🏗️ SASS Professional Architecture</b>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Asilbek2706/News-page">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=News-page&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
+        </a>
+        <br />
+        <b>📰 Simple News Portal</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Specialized Expertise
 | Domain | Proficiency | Key Technologies |
 |------|------------|-----------------|
 | **Frontend Architecture** | █████████░ | Design Systems, Monorepos, Module Federation |
 | **React Ecosystem** | ██████████ | Next.js 14 (App Router), Server Components |
 | **Performance Engineering** | ████████░░ | Web Vitals, Image Optimization, Bundle Analysis |
 | **Backend Integration** | ███████░░░ | Django REST Framework, PostgreSQL, Redis |
-
----
-
-## 🧪 Research & Technical Interests
-- 🦀 **Rust for the Web:** Leveraging WebAssembly (WASM) to push frontend performance limits  
-- 🏗️ **Server-Driven UI:** Backend-controlled UI composition for complex, scalable interfaces  
-- ⚡ **Edge Computing:** Vercel Edge Functions and Cloudflare Workers for ultra-low latency  
 
 ---
 
@@ -76,43 +101,6 @@ I design frontend solutions that prioritize **performance, maintainability, and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=dark&border_color=ff0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=dark&border_color=ff0000&title_color=ff0000&text_color=ffffff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbek2706&theme=dark&border=ff0000&ring=ff0000&fire=ff0000&sideNums=ffffff&sideLabels=ffffff" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=dark&border_color=ff0000" width="48%" />
-</p>
-
----
-
-## 🛠 Featured Projects
-<p align="center">
-  <a href="https://github.com/Asilbek2706/Mohirdev-project-Connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Mohirdev-project-Connect&theme=dark&border_color=ff0000" width="400px"/>
-  </a>
-  <a href="https://github.com/Asilbek2706/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Portfolio&theme=dark&border_color=ff0000" width="400px"/>
-  </a>
-</p>
-
----
-
-## 🛡 Engineering Principles
-- 🏗 **Scalable Architecture:** Modular and Atomic Design systems  
-- ♿ **Accessibility:** WCAG 2.1 compliance and keyboard-first UX  
-- 🚀 **Performance:** Code splitting, lazy loading, and asset optimization  
-- 🔄 **CI/CD:** Automated testing pipelines and Docker-based deployments  
-
----
-
-## ☕ Support My Work
-<p align="left">
-  <a href="https://www.buymeacoffee.com/asilbek">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://github.com/sponsors/Asilbek2706">
-    <img src="https://img.shields.io/badge/GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-  </a>
 </p>
 
 ---
