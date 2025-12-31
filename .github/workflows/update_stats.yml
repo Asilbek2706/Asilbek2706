@@ -1,30 +1,41 @@
-name: Update GitHub Stats
+name: Generate Stats File
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Har kuni yarim tunda ishlaydi
+    - cron: '0 0 * * *' # Har kuni yarim tunda
   push:
     branches: [ main ]
-  workflow_dispatch: # Qo'lda ishga tushirish uchun
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
       - name: Set up Python
-        uses: actions/setup-node@v4 # Python muhitini sozlash
-        
-      - name: Generate Stats
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Boya olingan tokendan foydalanadi
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python generate_stats.py
 
-      - name: Commit and Push
+      - name: Update README Section
+        run: |
+          STATS=$(cat STATS.md)
+          sed -i "//,//c\\n$STATS\n" README.md
+
+      - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add STATS.md
-          git commit -m "Update GitHub statistics" || exit 0
+          git add README.md STATS.md
+          git commit -m "docs: update dynamic statistics" || exit 0
           git push
