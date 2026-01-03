@@ -41,48 +41,46 @@ Results-driven **Frontend Architect** and **Senior React Engineer** focused on b
 
 ---
 
-## 📊 Language & Commit Metrics 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&border_color=991b1b&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=false" width="410px" height="165px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" width="410px" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" width="410px" height="165px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" width="410px" height="165px" />
-</p>
-
----
-
 ## 🛠 Featured Projects
 <div align="center">
 
 | Project Name | Technology Stack | Status | Link |
 | :--- | :--- | :---: | :---: |
-| **✨ Interactive Portfolio** | Next.js, Tailwind CSS, Framer Motion | `Maintained` | [📂 Open](https://github.com/Asilbek2706/Asilbek2706.github.io) |
-| **🔗 Connect Project** | React, Django REST, PostgreSQL | `Completed` | [📂 Open](https://github.com/Asilbek2706/Mohirdev-project-Connect) |
+| **✨ Interactive Portfolio** | SASS/SCSS, Advanced CSS, HTML5 | `Maintained` | [📂 Open](https://github.com/Asilbek2706/Asilbek2706.github.io) |
+| **🔗 Connect Project** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/Mohirdev-project-Connect) |
 | **🏗️ SASS Architecture** | SASS/SCSS, Advanced CSS, HTML5 | `Stable` | [📂 Open](https://github.com/Asilbek2706/SASS-project) |
-| **📰 News Portal** | React.js, Context API, News API | `Stable` | [📂 Open](https://github.com/Asilbek2706/News-page) |
+| **📰 News Portal** | SASS/SCSS, Advanced CSS, HTML5 | `Stable` | [📂 Open](https://github.com/Asilbek2706/News-page) |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity & Trophies
+## 📊 Analytics & Performance Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&border=991b1b" width="830px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&border_color=991b1b&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=false" width="450px" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" width="450px" height="200px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" width="450px" height="200px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" width="450px" height="200px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&border_color=991b1b&title_color=ef4444&icon_color=ef4444&hide_border=false" width="450px" height="200px" />
+  <img src="https://streak-stats.demolab.com?user=Asilbek2706&theme=tokyonight&border_color=991b1b&stroke=ef4444&ring=ef4444&fire=ef4444&hide_border=false" width="450px" height="200px" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=991b1b&hide_border=true" width="830px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Asilbek2706&theme=tokyonight&hide_border=true&stroke=991b1b&ring=991b1b&fire=991b1b" width="300px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=true&row=1&column=7" width="300px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=tokyonight" width="300px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=tokyonight" width="830px" />
 </p>
 
 ---
