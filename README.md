@@ -8,108 +8,86 @@
 
 <p align="center">
   <a href="https://github.com/Asilbek2706">
-    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Follow&style=for-the-badge&logo=github&color=991b1b&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=991b1b&logoColor=white" />
   </a>
-  <a href="https://github.com/Asilbek2706?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-dc2626?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-991b1b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-065f46?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ Professional Summary
-Results-driven **Frontend Architect** and **Senior React Engineer** with a strong focus on building scalable, accessible, and high-performance web applications.  
-Specialized in architecting modern UI systems and seamlessly integrating them with reliable **Django-based backends**.
+## ⚡ Executive Summary
+Results-driven **Frontend Architect** and **Senior React Engineer** focused on building scalable, accessible, and high-performance web applications. Specialized in architecting modern UI systems and seamless integration with robust **Django backends**.
 
-- 🔭 **Current Focus:** Micro-frontend architectures, SSR, and cloud-native deployments  
-- ⚡ **Performance First:** Consistently targeting sub-second Time To Interactive (TTI)  
-- 🛠 **Daily Environment:** Linux (Ubuntu) · WebStorm · Docker · VS Code  
+* 🚀 **Core Goal:** Building sub-second Time To Interactive (TTI) web experiences.
+* 🔭 **Current Focus:** Micro-frontend architectures and Next.js App Router.
+* 🛠 **Environment:** Linux (Ubuntu) · WebStorm · VS Code · Git Workflow.
 
 ---
 
-## 🚀 Core Technology Stack
+## 🚀 Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,python,django,git,mysql,linux,docker,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,python,django,git,mysql,linux,bash&theme=dark" />
 </p>
 
 ---
 
-## 🛠 Featured Projects (Selected Works)
+## 🎯 Technical Expertise
+| Domain | Proficiency | Key Focus Areas |
+| :--- | :---: | :--- |
+| **Frontend Architecture** | `█████████░` | Design Systems, Monorepos, Module Federation |
+| **React Ecosystem** | `██████████` | Next.js 14+, Server Components, State Mgmt |
+| **Performance Engineering** | `████████░░` | Optimization, Web Vitals, Bundle Analysis |
+| **Backend Integration** | `███████░░░` | DRF, PostgreSQL, RESTful APIs |
 
+---
+
+## 📊 Language & Commit Metrics 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&border_color=991b1b&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=false" width="410px" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" width="410px" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" width="410px" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" width="410px" height="165px" />
+</p>
+
+---
+
+## 🛠 Featured Projects
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Asilbek2706/Asilbek2706.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Asilbek2706.github.io&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
-        </a>
-        <br />
-        <b>✨ My Interactive Portfolio</b>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Asilbek2706/Mohirdev-project-Connect">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=Mohirdev-project-Connect&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
-        </a>
-        <br />
-        <b>🔗 My Connect Project</b>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Asilbek2706/SASS-project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=SASS-project&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
-        </a>
-        <br />
-        <b>🏗️ SASS Professional Architecture</b>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Asilbek2706/News-page">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asilbek2706&repo=News-page&theme=tokyonight&border_color=991b1b&title_color=ef4444" width="100%" />
-        </a>
-        <br />
-        <b>📰 Simple News Portal</b>
-      </td>
-    </tr>
-  </table>
+
+| Project Name | Technology Stack | Status | Link |
+| :--- | :--- | :---: | :---: |
+| **✨ Interactive Portfolio** | Next.js, Tailwind CSS, Framer Motion | `Maintained` | [📂 Open](https://github.com/Asilbek2706/Asilbek2706.github.io) |
+| **🔗 Connect Project** | React, Django REST, PostgreSQL | `Completed` | [📂 Open](https://github.com/Asilbek2706/Mohirdev-project-Connect) |
+| **🏗️ SASS Architecture** | SASS/SCSS, Advanced CSS, HTML5 | `Stable` | [📂 Open](https://github.com/Asilbek2706/SASS-project) |
+| **📰 News Portal** | React.js, Context API, News API | `Stable` | [📂 Open](https://github.com/Asilbek2706/News-page) |
+
 </div>
 
 ---
 
-## 🎯 Specialized Expertise
-| Domain | Proficiency | Key Technologies |
-|------|------------|-----------------|
-| **Frontend Architecture** | █████████░ | Design Systems, Monorepos, Module Federation |
-| **React Ecosystem** | ██████████ | Next.js 14 (App Router), Server Components |
-| **Performance Engineering** | ████████░░ | Web Vitals, Image Optimization, Bundle Analysis |
-| **Backend Integration** | ███████░░░ | Django REST Framework, PostgreSQL, Redis |
-
----
-
-## 📈 Activity & Open Source Contributions
+## 📈 Contribution Activity & Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=ff0000&border_color=ff0000&custom_title=GitHub+Contribution+Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=991b1b&hide_border=true" width="830px" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=Asilbek2706&theme=tokyonight&hide_border=true&stroke=991b1b&ring=991b1b&fire=991b1b" width="300px" />
 </p>
 
----
-
-## 📈 Detailed Analytics
-
----
-
-## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=dark&border_color=ff0000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=dark&border_color=ff0000&title_color=ff0000&text_color=ffffff" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=true&row=1&column=7" width="300px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=tokyonight" width="300px" />
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 <p align="center">
   <a href="https://t.me/as1lbek_2706"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -117,5 +95,5 @@ Specialized in architecting modern UI systems and seamlessly integrating them wi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=991b1b&height=30&section=footer&text=Keep%20Building%20%7C%20Stay%20Curious&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=991b1b&height=35&section=footer&text=Keep%20Building%20%7C%20Stay%20Curious&fontSize=18" />
 </p>
