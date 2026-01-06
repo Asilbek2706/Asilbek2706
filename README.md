@@ -10,6 +10,7 @@
   <a href="https://github.com/Asilbek2706">
     <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=991b1b&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile%20Views&color=991b1b&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Actively%20Building-065f46?style=for-the-badge" />
 </p>
 
@@ -46,6 +47,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 ---
 
 ## 📊 Analytics & Performance Metrics
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=asilbek2706&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&border=991b1b" width="850px" />
 </p>
@@ -55,26 +57,32 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" width="420px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" width="420px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&border_color=991b1b&title_color=ef4444&icon_color=ef4444&hide_border=false" width="422px" height="195px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" width="422px" height="195px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" width="420px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" width="420px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" width="422px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" width="422px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" width="422px" />
+  <img src="https://streak-stats.demolab.com?user=asilbek2706&theme=tokyonight&border_color=991b1b&hide_border=false" width="422px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=991b1b&hide_border=true" width="850px" />
 </p>
+
 ---
 
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://t.me/as1lbek_2706"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.leetcode.com/asilbek2706"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
