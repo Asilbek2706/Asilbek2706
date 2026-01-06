@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Asilbek2706">
-    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=991b1b&logoColor=white" />
+    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=991b1b&logoColor=991b1b" />
   </a>
   <img src="https://img.shields.io/badge/Status-Actively%20Building-065f46?style=for-the-badge" />
 </p>
@@ -47,26 +47,24 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 
 ## 📊 Analytics & Performance Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&border=991b1b" width="850px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&border=991b1b" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilbek2706&theme=tokyonight" width="420px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilbek2706&theme=tokyonight" width="850px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" width="320px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" width="320px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" width="420px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" width="420px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" width="320px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" width="320px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" width="420px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" width="420px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=red&hide_border=true" width="850px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=991b1b&hide_border=true" width="850px" />
-</p>
 ---
 
 ## 📫 Let's Connect
