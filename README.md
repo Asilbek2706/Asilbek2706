@@ -1,67 +1,83 @@
 <p align="center">
   <img alt="Asilbek Karomatov" src="https://capsule-render.vercel.app/api?type=waving&color=991b1b&height=220&section=header&text=Asilbek%20Karomatov&fontSize=60&animation=fadeIn&fontAlignY=38" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EF4444&center=true&vCenter=true&width=435&lines=Frontend+Architect;Junior+React+Engineer;Creative+Web+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile%20Views&color=991b1b&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ef4444&center=true&vCenter=true&width=900&lines=Frontend+Architect+%7C+Junior+React+Engineer;High-Performance+UI+%2F+UX+Systems;Open+Source+Contributor+%7C+Django+Integration" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asilbek2706">
+    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=991b1b&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-065f46?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚡ About Me
-A results-driven **Frontend Architect** and **Junior React Engineer** based in Uzbekistan. I am passionate about crafting high-performance, accessible, and visually stunning web applications.
+## ⚡ Executive Summary
+Results-driven **Frontend Architect** and **Junior React Engineer** focused on building scalable, accessible, and high-performance web applications. Specialized in architecting modern UI systems and seamless integration with robust **Django backends**.
 
-* 🚀 **Core Focus:** Building sub-second Time To Interactive (TTI) web experiences.
-* 🌱 **Current Learning:** Advanced React patterns, Redux Toolkit, and Performance Optimization.
+* 🚀 **Core Goal:** Building sub-second Time To Interactive (TTI) web experiences.
+* 🔭 **Current Focus:** Micro-frontend architectures and Next.js App Router.
 * 🛠 **Environment:** Windows · WebStorm · VS Code · Git Workflow.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Technology Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma,python,django,git,mysql,linux,bash&theme=dark" />
 </p>
+
+---
+
+## 🛠 Featured Projects
+<div align="center">
+
+| Project Name | Technology Stack | Status | Link |
+| :--- | :--- | :---: | :---: |
+| **✨ Interactive Portfolio** | SASS/SCSS, Advanced CSS, HTML5 | `Maintained` | [📂 Open](https://github.com/Asilbek2706/Asilbek2706.github.io) |
+| **🔗 Connect Project** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/Mohirdev-project-Connect) |
+| **🏗️ SASS Architecture** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/SASS-project) |
+| **📰 News Portal** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/News-page) |
+
+</div>
 
 ---
 
 ## 📊 Analytics & Performance Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=radical&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=ffffff&border_color=991b1b&rank_icon=github&count_private=true&include_all_commits=true" height="195" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=radical&bg_color=0d1117&title_color=ef4444&text_color=ffffff&border_color=991b1b" height="195" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&border=991b1b" width="830px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=ef4444&line=991b1b&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&border_color=991b1b&title_color=ef4444&text_color=ffffff&bg_color=0d1117&hide_border=false" width="410px" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" width="410px" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" width="410px" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" width="410px" height="165px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&border_color=991b1b&title_color=ef4444&icon_color=ef4444&hide_border=false" width="410px" height="192px" />
+  <img src="https://streak-stats.demolab.com?user=Asilbek2706&theme=tokyonight&border_color=991b1b&stroke=ef4444&ring=ef4444&fire=ef4444&hide_border=false" width="410px" height="192px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=991b1b&hide_border=true" width="830px" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 <p align="center">
-  <a href="https://t.me/as1lbek_2706">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:asilbekkaromatov2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/asilbek2706">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <a href="https://t.me/as1lbek_2706"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/asilbek2706"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
-<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=991b1b&height=35&section=footer&text=Keep%20Building%20%7C%20Stay%20Curious&fontSize=18" />
