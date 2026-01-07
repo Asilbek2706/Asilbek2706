@@ -47,7 +47,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 
 ## 📊 Analytics & Performance Metrics
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=false&row=1&column=7&margin-w=15&border=991b1b" width="400px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight" width="800" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilbek2706&theme=tokyonight" width="420px" />
 </p>
 
