@@ -46,9 +46,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 ---
 
 ## 📊 Analytics & Performance Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&theme=tokyonight" />
-
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=tokyonight" width="420px" />
 </p>
 
@@ -64,8 +62,9 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=red&hide_border=true" width="850px" />
-</p> -->
+</p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asilbek2706&theme=tokyonight)
 ---
 
 ## 📫 Let's Connect
