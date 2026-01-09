@@ -73,8 +73,6 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&theme=react-dark&area=true&color=991b1b&border_color=red&hide_border=true" width="850px" />
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asilbek2706&theme=tokyonight" />
-
 ---
 
 ## 📫 Let's Connect
