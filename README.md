@@ -37,7 +37,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 | Project Name | Technology Stack | Status | Link |
 | :--- | :--- | :---: | :---: |
 | **✨ Interactive Portfolio** | SASS/SCSS, Advanced CSS, HTML5 | `Maintained` | [📂 Open](https://github.com/Asilbek2706/Asilbek2706.github.io) |
-| **🔗 Connect Project** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/Mohirdev-project-Connect) |
+| **📚 Books Library System** | JS (OOP, Inheritance), SASS, RWD | `Completed` | [📂 Open](https://github.com/Asilbek2706/Books-Library-JS) |
 | **🏗️ SASS Architecture** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/SASS-project) |
 | **📰 News Portal** | SASS/SCSS, Advanced CSS, HTML5 | `Completed` | [📂 Open](https://github.com/Asilbek2706/News-page) |
 
