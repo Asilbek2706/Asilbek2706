@@ -84,3 +84,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=991b1b&height=35&section=footer&text=Keep%20Building%20%7C%20Stay%20Curious&fontSize=18" />
 </p>
+
+---
+
+<p align="center"><i>“The only way to do great work is to love what you do.” – Steve Jobs</i></p>
