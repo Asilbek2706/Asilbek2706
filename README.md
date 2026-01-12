@@ -38,6 +38,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 | :--- | :--- | :---: | :---: |
 | **✨ Interactive Portfolio** | SASS/SCSS, Advanced CSS, HTML5 | `Maintained` | [📂 Open](https://asilbek2706.github.io/) |
 | **📚 Books Library System** | JS (OOP, Inheritance), SASS, RWD | `Completed` | [📂 Open](https://asilbek2706.github.io/Books-Library-JS) |
+| **🎮 Tic-Tac-Toe Game** | JS, SASS, RWD, HTML5 | `Completed` | [📂 Open](https://asilbek2706.github.io/tic-tac-toe/) |
 
 </div>
 
