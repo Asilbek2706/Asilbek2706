@@ -47,7 +47,7 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 ## 📊 Analytics & Performance Metrics
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-nine-57.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-eta-nine-57.vercel.app/api?username=Asilbek2706&show_icons=true&theme=dark"
     alt="GitHub Stats"
     width="400px"
     height="200px"
@@ -55,17 +55,17 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=tokyonight" width="640px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=dark" width="640px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" width="320px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" width="320px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=dark" width="320px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=dark" width="320px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" width="320px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" width="320px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=dark" width="320px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=dark&utcOffset=5" width="320px" />
 </p>
 
 <p align="center">
