@@ -51,7 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=003300&hide_border=true&font_color=ffffff" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=0f3d0f&hide_border=true&font_color=ffffff&stroke_width=3&point_size=5" width="100%" alt="Activity Graph" />
+</p>
 </p>
 
 ---
