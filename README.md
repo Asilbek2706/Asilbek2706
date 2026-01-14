@@ -46,29 +46,21 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 
 ## 📊 Analytics & Performance Metrics
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast"
-    alt="GitHub Stats"
-    width="450px"
-  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.shift.moe/Asilbek2706?template=classic&config.timezone=Asia/Tashkent" width="100%" alt="Metrics" />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=highcontrast" 
-    width="640" 
-    alt="Profile Details"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=highcontrast" 
+    src="https://summary-cards.deno.dev/api/cards/repos-per-language?username=Asilbek2706&theme=highcontrast" 
     width="315" 
     alt="Repos per Language"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=highcontrast" 
+    src="https://summary-cards.deno.dev/api/cards/most-commit-language?username=Asilbek2706&theme=highcontrast" 
     width="315" 
     alt="Most Commit Language"
   />
@@ -76,12 +68,12 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=highcontrast" 
-    width="315" 
-    alt="Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast" 
+    width="450" 
+    alt="Stats" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=highcontrast&utcOffset=5" 
+    src="https://summary-cards.deno.dev/api/cards/productive-time?username=Asilbek2706&theme=highcontrast&utcOffset=5" 
     width="315" 
     alt="Productive Time"
   />
