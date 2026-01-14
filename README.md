@@ -45,14 +45,17 @@
 ## 📊 `$ ./check-performance.sh --verbose`
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asilbek2706&show_icons=true&theme=dark&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&hide_border=true&font=Fira+Code" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&hide_border=true&font=Fira+Code" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&hide_border=true&custom_title=Asilbek+Karomatov%27s+GitHub+Stats&font=Fira+Code" height="165" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&hide_border=true&langs_count=8&custom_title=Asilbek+Karomatov%27s+Languages&font=Fira+Code" height="165" />
+</p>
+
+<p align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&bg_color=000000&title_color=39FF14&text_color=ffffff&color_badge=39FF14&theme=dracula" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=0f3d0f&hide_border=true&font_color=ffffff&stroke_width=3&point_size=5" width="100%" alt="Activity Graph" />
-</p>
 </p>
 
 ---
