@@ -47,27 +47,45 @@ Results-driven **Frontend Architect** and **Junior React Engineer** focused on b
 ## 📊 Analytics & Performance Metrics
 <p align="center">
   <img
-    src="https://github-readme-stats-eta-nine-57.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast"
+    src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast"
     alt="GitHub Stats"
-    width="400px"
-    height="200px"
+    width="450px"
   />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=highcontrast" width="640" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=highcontrast" 
+    width="640" 
+    alt="Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=highcontrast" width="315" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=highcontrast" width="315" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=highcontrast" 
+    width="315" 
+    alt="Repos per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=highcontrast" 
+    width="315" 
+    alt="Most Commit Language"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=highcontrast" width="315" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=highcontrast&utcOffset=5" width="315" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=highcontrast" 
+    width="315" 
+    alt="Stats"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=highcontrast&utcOffset=5" 
+    width="315" 
+    alt="Productive Time"
+  />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=440000&hide_border=true&font_color=ffffff" width="850" alt="High Contrast Red Activity Graph" />
 </p>
