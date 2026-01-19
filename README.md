@@ -37,6 +37,7 @@
 | **✨ Interactive Portfolio** | `SASS`, `CSS3` | `0777` | [📂 View](https://asilbek2706.github.io/) |
 | **📚 Books Library** | `JS (OOP)` | `0644` | [📂 View](https://asilbek2706.github.io/Books-Library-JS) |
 | **🎮 Tic-Tac-Toe** | `JS`, `SASS` | `0644` | [📂 View](https://asilbek2706.github.io/tic-tac-toe/) |
+| **🛒 Smart Shop** | `TS`, `SASS`, `DOM` | `0644` | [📂 View](https://asilbek2706.github.io/E-Commerce-ts-app/) |
 
 </div>
 
