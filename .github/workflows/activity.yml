@@ -1,0 +1,16 @@
+name: Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Har 30 minutda yangilanadi
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Update recent activity"
