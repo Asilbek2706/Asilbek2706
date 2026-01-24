@@ -8,32 +8,38 @@ def fetch_stats():
     username = "Asilbek2706"
     headers = {"Authorization": f"token {token}"} if token else {}
     
-    response = requests.get(f"https://api.github.com/users/{username}/repos", headers=headers)
-    if response.status_code != 200:
-        return "Stats update failed."
+    # Repolarni olish
+    repo_res = requests.get(f"https://api.github.com/users/{username}/repos", headers=headers)
+    repos = repo_res.json()
     
-    repos = response.json()
+    # Commitlarni hisoblash (soddalashtirilgan)
     total_stars = sum(repo['stargazers_count'] for repo in repos)
     repo_count = len(repos)
     
-    return f"""
-* 🚀 **Total Stars:** {total_stars}
-* 🛠 **Public Projects:** {repo_count}
-* 📅 **Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}
+    stats_text = f"""
+> **Status:** `Analysis Complete`
+> 🚀 **Total Stars:** `{total_stars}`
+> 🛠 **Public Projects:** `{repo_count}`
+> 📅 **Last Scan:** `{datetime.now().strftime('%Y-%m-%d %H:%M')}`
 """
+    return stats_text
 
-def update_readme(stats):
+def update_readme(new_stats):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
     
-    # Markerlar orasidagi qismini yangilash
+    # README ichidagi va orasini yangilaydi
     pattern = r".*"
-    replacement = f"\n{stats}\n"
-    new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+    replacement = f"\n{new_stats}\n"
+    updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(new_content)
+        f.write(updated_content)
 
 if __name__ == "__main__":
     stats = fetch_stats()
+    # Ham STATS.md, ham README.md yangilanadi
+    with open("STATS.md", "w", encoding="utf-8") as f:
+        f.write(f"### 📊 GitHub Stats for Asilbek2706\n{stats}")
+    
     update_readme(stats)
