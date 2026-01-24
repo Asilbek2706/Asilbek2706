@@ -45,6 +45,7 @@
 ---
 
 ## 📊 `$ ./check-performance.sh --verbose`
+### 📈 Custom System Metrics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&hide_border=true&custom_title=Asilbek+Karomatov%27s+GitHub+Stats&font=Fira+Code" height="165" />
