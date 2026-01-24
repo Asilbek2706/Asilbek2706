@@ -6,24 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-stats:
+  run-stats-script:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
-      - name: Run script
+      - name: Execute script
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generate_stats.py
-      - name: Commit changes
+      - name: Commit & Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update GitHub stats" || exit 0
+          git add .
+          git commit -m "chore: update system metrics" || exit 0
           git push
