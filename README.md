@@ -52,6 +52,11 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&hide_border=true&langs_count=8&custom_title=Asilbek+Karomatov%27s+Languages&font=Fira+Code" height="165" />
 </p>
 
+---
+
+## 📈 `$ ./system-report.py --fetch-all`
+---
+
 ### ⌨️ `$ cat /var/log/wakatime-metrics`
 <p align="center">
   <img src="https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-snake-dark.svg" alt="Snake animation" />
