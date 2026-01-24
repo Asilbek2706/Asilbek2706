@@ -18,7 +18,7 @@
 ## 🟢 `$ whoami`
 > **Name:** `Asilbek Karomatov`  
 > **Expertise:** `Frontend Architect & Junior React Engineer`  
-> **Mission:** `Building sub-second TTI experiences.`<br/>
+> **Mission:** `Building sub-second TTI experiences.`  
 > **OS:** `Ubuntu`, `Windows`, `Kali Linux`
 
 ---
@@ -45,8 +45,6 @@
 ---
 
 ## 📊 `$ ./check-performance.sh --verbose`
-### 📈 Custom System Metrics
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asilbek2706&show_icons=true&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&icon_color=39FF14&hide_border=true&custom_title=Asilbek+Karomatov%27s+GitHub+Stats&font=Fira+Code" height="165" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=highcontrast&bg_color=000000&title_color=39FF14&text_color=ffffff&hide_border=true&langs_count=8&custom_title=Asilbek+Karomatov%27s+Languages&font=Fira+Code" height="165" />
@@ -67,6 +65,7 @@
 </p>
 
 ---
+
 ## 🛠 $ systemctl status asilbek-brain.service
 - 🧠 **Mood:** `Coding...`
 - ☕ **Fuel:** `Black Coffee`
