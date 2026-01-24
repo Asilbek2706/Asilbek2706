@@ -18,8 +18,8 @@
 ## 🟢 `$ whoami`
 > **Name:** `Asilbek Karomatov`  
 > **Expertise:** `Frontend Architect & Junior React Engineer`  
-> **Mission:** `Building sub-second TTI experiences.`
-> **OS:** `Arch Linux` (Spiritually)
+> **Mission:** `Building sub-second TTI experiences.`<br/>
+> **OS:** `Ubuntu`, `Windows`, `Kali Linux`
 
 ---
 
@@ -35,7 +35,7 @@
 
 | Project | Tech Stack | Status | Binary |
 | :--- | :--- | :---: | :---: |
-| **✨ Interactive Portfolio** | `SASS`, `CSS3` | `0777` | [📂 View](https://asilbek2706-github-io.vercel.app/) |
+| **✨ Interactive Portfolio** | `SASS`, `ReactJS`, `Typescript` | `0777` | [📂 View](https://asilbek2706-github-io.vercel.app/) |
 | **📚 Books Library** | `JS (OOP)` | `0644` | [📂 View](https://asilbek2706.github.io/Books-Library-JS) |
 | **🎮 Tic-Tac-Toe** | `JS`, `SASS` | `0644` | [📂 View](https://asilbek2706.github.io/tic-tac-toe/) |
 | **🛒 Smart Shop** | `TS`, `SASS`, `DOM` | `0644` | [📂 View](https://asilbek2706.github.io/E-Commerce-ts-app/) |
