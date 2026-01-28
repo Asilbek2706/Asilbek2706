@@ -158,9 +158,9 @@ API Integration           ██████████████████
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Achievements-Growing_Daily-1e40af?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/⭐_Total_Stars-Counting-1e40af?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/📈_Contributions-Active-1e40af?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/🏆_GitHub-Trophy_Collector-1e40af?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/github/stars/Asilbek2706?label=Total%20Stars&style=for-the-badge&logo=github&color=1e40af&labelColor=111111" />
+  <img src="https://img.shields.io/badge/📈_Status-Active_Contributor-1e40af?style=for-the-badge&labelColor=111111" />
 </p>
 
 ---
@@ -264,19 +264,21 @@ API Integration           ██████████████████
 ---
 
 ## 📅 Coding Activity & Commits
+<!-- Note: WakaTime widget requires WakaTime account integration -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Asilbek2706&theme=algolia&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff" alt="WakaTime Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=algolia" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=algolia" alt="Stats" />
 </p>
 
 ---
 
 ## 📝 Latest Blog Posts & Articles
 <!-- BLOG-POST-LIST:START -->
+<!-- This section can be automated with GitHub Actions to show latest blog posts -->
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Writing_About-React_&_TypeScript-1e40af?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/📚_Learning_In_Public-Every_Day-1e40af?style=for-the-badge&labelColor=111111" />
