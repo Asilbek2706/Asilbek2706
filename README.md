@@ -29,7 +29,7 @@
 
 ```typescript
 const asilbek = {
-  title: "Frontend Architect | React Engineer",
+  title: "Frontend Architect | Junior React Engineer",
   location: "Uzbekistan 🇺🇿",
   experience: "Building scalable web applications",
   specialization: ["React", "TypeScript", "Performance Optimization"],
@@ -81,6 +81,7 @@ const asilbek = {
 
 ## 💻 Skills & Proficiency
 
+<!-- Note: Skill percentages should be reviewed and updated periodically as skills develop -->
 <details>
 <summary>Click to expand skill details</summary>
 
@@ -106,11 +107,11 @@ MySQL            ███████████████░░░░░░
 
 ### Concepts & Practices
 ```text
-Performance Opt  ███████████████████░░   90%
-Clean Code       ████████████████████░   95%
-Responsive Web   ████████████████████░   95%
-State Management ██████████████████░░░   85%
-API Integration  ██████████████████░░░   85%
+Performance Optimization  ███████████████████░░   90%
+Clean Code                ████████████████████░   95%
+Responsive Web            ████████████████████░   95%
+State Management          ██████████████████░░░   85%
+API Integration           ██████████████████░░░   85%
 ```
 
 </details>
@@ -204,7 +205,7 @@ API Integration  ██████████████████░░░
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡_React-Expert_Level-1e40af?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/⚡_React-Advanced_Level-1e40af?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/📊_TypeScript-Advanced-1e40af?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/🎨_UI/UX-Pixel_Perfect-1e40af?style=for-the-badge&labelColor=111111" />
 </p>
