@@ -69,7 +69,7 @@ const asilbek = {
 
 ### Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,pycharm,linux,bash,npm,npx&theme=dark" />
 </p>
 
 ### Programming Languages
