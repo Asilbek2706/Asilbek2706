@@ -79,6 +79,40 @@ const asilbek = {
 
 ---
 
+## ⚡ Quick Facts
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎓-Self_Taught_Developer-1e40af?style=flat-square&labelColor=111111" /><br/>
+      Continuous Learner
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/💼-Open_To_Work-1e40af?style=flat-square&labelColor=111111" /><br/>
+      Seeking Opportunities
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌍-Remote_Friendly-1e40af?style=flat-square&labelColor=111111" /><br/>
+      Work From Anywhere
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⏰-Active_24/7-1e40af?style=flat-square&labelColor=111111" /><br/>
+      Always Coding
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🤝-Collaboration_Ready-1e40af?style=flat-square&labelColor=111111" /><br/>
+      Team Player
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎯-Goal_Oriented-1e40af?style=flat-square&labelColor=111111" /><br/>
+      Results Driven
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💻 Skills & Proficiency
 
 <!-- Note: Skill percentages should be reviewed and updated periodically as skills develop -->
@@ -120,7 +154,24 @@ API Integration           ██████████████████
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&title_color=1e40af&text_color=ffffff&icon_color=1e40af" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=algolia&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_GitHub-Trophy_Collector-1e40af?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/github/stars/Asilbek2706?label=Total%20Stars&style=for-the-badge&logo=github&color=1e40af&labelColor=111111" />
+  <img src="https://img.shields.io/badge/📈_Status-Active_Contributor-1e40af?style=for-the-badge&labelColor=111111" />
+</p>
+
+---
+
+## 📊 Contribution Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Asilbek2706&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
 </p>
 
 ---
@@ -208,6 +259,46 @@ API Integration           ██████████████████
   <img src="https://img.shields.io/badge/⚡_React-Advanced_Level-1e40af?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/📊_TypeScript-Advanced-1e40af?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/🎨_UI/UX-Pixel_Perfect-1e40af?style=for-the-badge&labelColor=111111" />
+</p>
+
+---
+
+## 📅 Coding Activity & Commits
+<!-- Note: WakaTime widget requires WakaTime account integration -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Asilbek2706&theme=algolia&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff" alt="WakaTime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=algolia" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=algolia" alt="Stats" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts & Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- This section can be automated with GitHub Actions to show latest blog posts -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Writing_About-React_&_TypeScript-1e40af?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/📚_Learning_In_Public-Every_Day-1e40af?style=for-the-badge&labelColor=111111" />
+</p>
+
+> Stay tuned for upcoming articles on React performance optimization, TypeScript best practices, and modern web development!
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💖 Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/asilbek2706">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=111111" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <i>If you like my projects and want to support my work, consider buying me a coffee! ☕</i>
 </p>
 
 ---
