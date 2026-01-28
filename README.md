@@ -1,13 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Asilbek%20Karomatov&fontSize=60&animation=fadeIn&fontColor=fff" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1e40af&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Next.js;Building+Modern+Web+Apps+%E2%9C%A8;Performance+Optimization+Expert" alt="Typing SVG" />
-  
-  <br/>
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=Asilbek2706&label=Profile%20Views&color=1e40af&style=flat)](https://github.com/Asilbek2706)
-  [![GitHub followers](https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=flat&logo=github&color=1e40af)](https://github.com/Asilbek2706)
-  [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat&logo=handshake&logoColor=white)](mailto:asilbekkaromatov2@gmail.com)
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1e40af&height=220&section=header&text=Asilbek%20Karomatov&fontSize=80&animation=fadeIn&fontColor=ffffff&fontStyle=monospace" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1e40af&center=true&vCenter=true&width=900&lines=Frontend+Architect+%7C+Junior+React+Engineer;Building+Scalable+High-Performance+UI;System+Online:+Ready+to+Innovate..." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Asilbek2706">
+    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=1e40af&labelColor=111111" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Actively_Building-1e40af?style=for-the-badge&labelColor=111111&logo=react&logoColor=1e40af" />
+  <a href="https://github.com/Asilbek2706?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View_All-1e40af?style=for-the-badge&labelColor=111111&logo=github&logoColor=1e40af" />
+  </a>
+</p>
 </div>
 
 <br/>
@@ -89,6 +97,8 @@ const asilbek = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&bg_color=0d1117&color=1e40af&line=1e40af&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="Activity Graph" />
 </div>
 
+  ![Snake animation](https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-snake-dark.svg)
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
@@ -107,19 +117,19 @@ const asilbek = {
 </div>
 
 <br/>
+### 💭 Developer Wisdom
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-  
-  <br/>
-  
-  **💭 "First, solve the problem. Then, write the code."** - *John Johnson*
-  
-  <br/>
-  
-  ![Snake animation](https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-snake-dark.svg)
-  
-  <br/>
-  
-  <sub>⚡ Powered by passion, coffee, and clean code | Built with ❤️ by Asilbek Karomatov</sub>
+<p><i>"First, solve the problem. Then, write the code." - John Johnson</i></p>
+<p><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
+
+---
+
+<p><sub>⚡ Powered by passion, coffee, and clean code | Built with ❤️ by Asilbek Karomatov</sub></p>
+
 </div>
+  
+  <hr/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=60&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=20&fontColor=ffffff&fontStyle=monospace" />
+</p>
